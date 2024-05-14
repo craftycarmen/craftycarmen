@@ -1,4 +1,4 @@
-### Oh, hi! 👋 I'm Carmen Shiu, a full-stack software engineer.
+## Oh, hi! 👋 I'm Carmen Shiu, a full-stack software engineer.
 <div style="display: flex; align-items: center;">
   <img align="right" width="250px" src="https://github.com/craftycarmen/craftycarmen/assets/131481577/e9bf2a7b-f28c-4bf7-991d-24c47fbedb9a" style="padding-left: 20px;">
   <div width="200px">
@@ -7,7 +7,20 @@
   </div>
 </div>
 
+<i>*Yes, I'm dating myself here.</i>
 
+### Get in Touch
+
+  [<img width="40px" src="https://github.com/craftycarmen/craftycarmen/assets/131481577/a6ed70e2-5ac0-4e62-b9b4-4e7434a44c7f">](https://linkedin.com/in/carmenshiu)
+  [<img width="40px" src="https://github.com/craftycarmen/craftycarmen/assets/131481577/a62f29a0-7339-432f-9f27-2ecf403e0770">](mailto:hi@carmenshiu.com)
+  [<img width="40px" src="https://github.com/craftycarmen/craftycarmen/assets/131481577/11b2daab-1554-4bf5-94ce-71570da7188d">](https://carmenshiu.com)
+</div>
+
+
+### Currently
+- 🚀 Looking for a full-stack software engineering role.
+- 💻 Working on my [Plantera](https://plantera.onrender.com) project.
+- 🎧 Listening to "The Tortured Poets Department"
 
 
 <!--
