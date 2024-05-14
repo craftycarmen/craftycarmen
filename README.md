@@ -7,10 +7,14 @@ Now, as a full-stack software engineer, I'm building dynamic web applications, a
 
   <img align="right" width="375px" src="https://github.com/craftycarmen/craftycarmen/assets/131481577/e9bf2a7b-f28c-4bf7-991d-24c47fbedb9a" style="padding-left: 20px;">
 
+#  
+
 ### Currently
 - 🚀 Looking for a full-stack software engineering role.
 - 💻 Working on my [Plantera](https://plantera.onrender.com) project.
 - 🎧 Listening to "The Tortured Poets Department"
+  
+#  
 
 ### Get in Touch
   [<img width="40px" src="https://github.com/craftycarmen/craftycarmen/assets/131481577/a6ed70e2-5ac0-4e62-b9b4-4e7434a44c7f">](https://linkedin.com/in/carmenshiu)
