@@ -1,4 +1,4 @@
-  <img align="center" width="375px" src="https://github.com/craftycarmen/craftycarmen/assets/131481577/e9bf2a7b-f28c-4bf7-991d-24c47fbedb9a">
+<p align="center"><img width="375px" src="https://github.com/craftycarmen/craftycarmen/assets/131481577/e9bf2a7b-f28c-4bf7-991d-24c47fbedb9a"></p>
 
 ## Oh, hi! 👋 I'm Carmen Shiu, a software engineer.
 My passion for coding started when I created fan sites for music artists in my youth, using drag-and-drop platforms like Angelfire and Geocities*, and later teaching myself HTML and CSS. After going to school for PR and becoming a project manager-turned-product manager for 11 years, I realized it was time for a career change and enrolled in App Academy.
