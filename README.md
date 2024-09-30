@@ -35,9 +35,9 @@ Now, as a software engineer, I'm building full-stack, dynamic web applications, 
 #  
 
 ### Get in Touch
-  [<img width="40px" src="https://github.com/craftycarmen/craftycarmen/assets/131481577/a6ed70e2-5ac0-4e62-b9b4-4e7434a44c7f">](https://linkedin.com/in/carmenshiu)
-  [<img width="40px" src="https://github.com/craftycarmen/craftycarmen/assets/131481577/a62f29a0-7339-432f-9f27-2ecf403e0770">](mailto:hi@carmenshiu.com)
-  [<img width="40px" src="https://github.com/craftycarmen/craftycarmen/assets/131481577/11b2daab-1554-4bf5-94ce-71570da7188d">](https://carmenshiu.com)
+  [<img width="40px" src="https://github.com/user-attachments/assets/aaa86aea-12a3-4b2a-b4d6-3b049fb03d44">](https://linkedin.com/in/carmenshiu)
+  [<img width="40px" src="https://github.com/user-attachments/assets/9b5feef5-f3d9-46d7-bd15-0ce656ebafd1">](mailto:hi@carmenshiu.com)
+  [<img width="40px" src="https://github.com/user-attachments/assets/c2412d26-f060-48cb-b46b-d47cb9225828">](https://carmenshiu.com)
 
 <!--
 **craftycarmen/craftycarmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
