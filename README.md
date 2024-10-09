@@ -29,7 +29,7 @@ Now, as a software engineer, I'm building full-stack, dynamic web applications, 
 
 ### Currently
 - 🚀 Looking for a software engineering role.
-- 💻 Working on my [Plantera](https://plantera.onrender.com) project.
+- 💻 Working on a new project.
 - 🎧 Listening to "The Tortured Poets Department"
   
 #  
