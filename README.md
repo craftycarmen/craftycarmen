@@ -1,11 +1,13 @@
 <p align="center"><img width="375px" src="https://github.com/craftycarmen/craftycarmen/assets/131481577/e9bf2a7b-f28c-4bf7-991d-24c47fbedb9a"></p>
 
-## Oh, hi! 👋 I'm Carmen Shiu, a software engineer.
-My passion for coding started when I created fan sites for music artists in my youth, using drag-and-drop platforms like Angelfire and Geocities*, and later teaching myself HTML and CSS. After going to school for PR and becoming a project manager-turned-product manager for 11 years, I realized it was time for a career change and enrolled in an immersive software development course with a focus on full-stack web development.
+## Oh, hi! 👋🏻 I'm Carmen Shiu.
+I'm a **Software Engineer** from the San Francisco Bay Area.
 
-Now, as a software engineer, I'm building full-stack, dynamic web applications, applying the professional skills I've developed over the years, and—more importantly—finally pursuing that childhood passion of mine.
+My passion for coding started when I created fan sites for music artists in my youth, using drag-and-drop platforms like Angelfire and Geocities, and later teaching myself HTML and CSS. After going to school for PR and becoming a **project manager-turned-product manager** for 11 years, I realized it was time for a career change and enrolled in an **immersive software development course** with a focus on **full-stack web development**.
 
-<i>*Yes, I'm dating myself here.</i>
+Now, I'm building full-stack, dynamic web applications, applying the professional skills I've developed over the years, and—more importantly—finally **pursuing that childhood passion** of mine.
+
+_When I'm not coding, you can catch me caring for 50+ plants, spending time with my dogs, or cooking and baking from my extensive cookbook collection—all while unapologetically jamming to Taylor Swift._
 
 #  
 
@@ -35,9 +37,11 @@ Now, as a software engineer, I'm building full-stack, dynamic web applications, 
 #  
 
 ### Get in Touch
-  [<img width="40px" src="https://github.com/user-attachments/assets/aaa86aea-12a3-4b2a-b4d6-3b049fb03d44">](https://linkedin.com/in/carmenshiu)
-  [<img width="40px" src="https://github.com/user-attachments/assets/9b5feef5-f3d9-46d7-bd15-0ce656ebafd1">](mailto:hi@carmenshiu.com)
-  [<img width="40px" src="https://github.com/user-attachments/assets/c2412d26-f060-48cb-b46b-d47cb9225828">](https://carmenshiu.com)
+  [<img width="40px" alt="LinkedIn" src="https://github.com/user-attachments/assets/d446fe04-3f77-4b7f-8a32-fd5a369c9082">](https://linkedin.com/in/carmenshiu)
+  [<img width="40px" alt="Email" src="https://github.com/user-attachments/assets/178a40e9-9eee-49a1-b36c-12e65c8a6d3d">](mailto:hi@carmenshiu.com)
+  [<img width="40px" alt="Portfolio" src="https://github.com/user-attachments/assets/359f960d-b894-42c3-bfd3-c099979eac73">](https://carmenshiu.com)
+
+
 
 <!--
 **craftycarmen/craftycarmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
