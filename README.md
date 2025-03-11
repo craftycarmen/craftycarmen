@@ -32,7 +32,7 @@ _When I'm not coding, you can catch me caring for 50+ plants, spending time with
 ### Currently
 - 🚀 Looking for a software engineering role.
 - 💻 Working on a new project.
-- 🎧 Listening to "The Tortured Poets Department"
+- 🎧 Listening to "Mayhem."
   
 #  
 
